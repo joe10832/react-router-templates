@@ -15,11 +15,11 @@
     "@types/node": "^22.13.1",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
-    "@vitejs/plugin-rsc": "0.4.26",
+    "@vitejs/plugin-rsc": "0.5.8",
     "cross-env": "^7.0.3",
     "tailwindcss": "^4.1.4",
     "typescript": "^5.8.3",
-    "vite": "^6.3.3"
+    "vite": "^6.4.2"
   },
   "dependencies": {
     "@remix-run/node-fetch-server": "0.8.1",
@@ -27,6 +27,6 @@
     "express": "^4.21.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router": "0.0.0-experimental-4cf5bd08c"
+    "react-router": "0.0.0-experimental-4cf800728"
   }
 }
